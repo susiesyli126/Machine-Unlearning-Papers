@@ -6,6 +6,9 @@ This list is organized into the following: 1) Introductory level (for those fami
 
 # 1. Introduction
 ## Introductory articles and blogs 
+
 ## Introductory papers
-# 2. Applications 
-# 3. Algorithms and Evaluation 
+# 2. Challenges 
+# 3. Applications 
+# 4. Algorithms and Evaluation 
+- [Fast Yet Effective Machine Unlearning (2023)](https://arxiv.org/pdf/2111.08947.pdf)
